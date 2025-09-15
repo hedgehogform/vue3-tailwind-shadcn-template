@@ -34,7 +34,6 @@
     "vue": "^3.5.21",
     "vue-router": "^4.5.1",
     "vue-sonner": "^2.0.8",
-    "vue3-tailwind-shadcn-template": ".",
     "zod": "^4.1.7"
   },
   "devDependencies": {
